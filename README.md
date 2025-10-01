@@ -1,4 +1,4 @@
-# Assignment Project
+# AI for Software Enginneering Week 1 Assignment
 
 This project was created and tested in Google Colab, with files and progress pushed to GitHub for version control.
 
